@@ -1,0 +1,8 @@
+{
+  "name": "The Wave \"L'Oréal Professional\" Unisex Salon",
+  "description": "Premium luxury unisex salon in Contai, West Bengal providing world-class styling in association with L'Oréal Professional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
